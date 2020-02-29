@@ -1,0 +1,9 @@
+name: PowerBook
+version: 2.0
+main: me.droreo002.powerbook.PowerBook
+
+commands:
+  powerbook:
+    aliases:
+      - bookeditor
+      - pb
